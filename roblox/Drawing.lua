@@ -654,7 +654,6 @@ function DrawingLib.createFrame()
 end
 
 task.spawn(function()
-	print("🚀 Join our Discord: https://discord.gg/cXUD6yEvKy 🚀")
 	local _game = game:GetService("CoreGui").Parent
 local HttpService = _game:FindService("HttpService")
 
